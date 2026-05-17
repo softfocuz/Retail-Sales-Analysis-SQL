@@ -5,11 +5,6 @@
 # Columns: transaction_id, sale_date, sale_time, customer_id, gender, age, category, quantity, price_per_unit, cogs, total_sale
 
 # Some Analysis I explored
-#   1.) Which age group spends the most?
-
-# Columns: transaction_id, sale_date, sale_time, customer_id, gender, age, category, quantity, price_per_unit, cogs, total_sale
-
-# Some Analysis I explored
 #   1. Which age group spends the most?
 ![first_image_proof](images_README/image.png)
 
