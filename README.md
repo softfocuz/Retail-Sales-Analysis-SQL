@@ -2,16 +2,12 @@
 # Exploratory Data Analysis using SQL (PostgreSQL)
 #   - A SQL-based data analysis project exploring retail transaction data to uncover sales trends, customer behavior, and category performance.
 
-<<<<<<< HEAD
 # Columns: transaction_id, sale_date, sale_time, customer_id, gender, age, category, quantity, price_per_unit, cogs, total_sale
 
 # Some Analysis I explored
-#   1.) -- Which age group spends the most?
-
-=======
+#   1.) Which age group spends the most?
 
 # Columns: transaction_id, sale_date, sale_time, customer_id, gender, age, category, quantity, price_per_unit, cogs, total_sale
-
 
 # Some Analysis I explored
 #   1. Which age group spends the most?
@@ -41,4 +37,3 @@
 #   - Date/time extraction using EXTRACT(YEAR ...), EXTRACT(MONTH ...), EXTRACT(HOUR ...)
 #   - ORDER BY for sorting results
 #   - DISTINCT for unique customer counts
->>>>>>> d9dffb1 (add)
